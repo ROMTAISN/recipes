@@ -1,0 +1,12 @@
+.block_ApiRecipes {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+}
+  
+.ApiRecipes {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-items: center;
+}
